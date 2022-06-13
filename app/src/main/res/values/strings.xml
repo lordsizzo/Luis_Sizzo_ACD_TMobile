@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Luis_Sizzo_ACD_T-Mobile</string>
+    <string name="search_for_user_s_repositories">Search for user\'s Repositories</string>
+    <string name="this_is_their_biography_it_may_be_long_and_needs_to_all_fit">This is their biography. It may be long and needs to all fit</string>
+    <string name="search">Search</string>
+    <string name="search_user">Search user</string>
+</resources>
